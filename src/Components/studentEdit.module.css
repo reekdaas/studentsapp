@@ -1,0 +1,15 @@
+.studentForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1.25rem;
+}
+
+.formrow {
+  display: flex;
+  flex-direction: column;
+}
+
+.formrow > label {
+  font-size: 1.25rem;
+}

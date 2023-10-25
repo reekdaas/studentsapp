@@ -1,0 +1,16 @@
+.studentTable {
+  border-collapse: collapse;
+}
+.studentTable td,
+.studentTable th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.studentTable tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+.studentTable tr:hover {
+  cursor: pointer;
+  background-color: gainsboro;
+}
