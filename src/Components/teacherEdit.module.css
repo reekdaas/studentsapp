@@ -1,0 +1,14 @@
+.teacherForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1.25rem;
+}
+
+.teacherFormRow {
+  display: flex;
+  flex-direction: column;
+}
+.teacherFormRow > label {
+  font-size: 1.25rem;
+}
